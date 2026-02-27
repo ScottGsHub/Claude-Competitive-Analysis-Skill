@@ -6,6 +6,8 @@ NOTE: The goal here is to offer a jump-start to a genreal overview, not be a fin
 
 Last Warning: Trust, but Verify! You get a great starting point with this. That's the goal.
 
+This skill should be compatible with free, Pro, Max, Team, and Enterprise plans. Free plan users may experience interruptions on longer analyses due to usage limits. A Pro plan or higher is recommended for best results.
+
 ---
 
 # Disclaimer

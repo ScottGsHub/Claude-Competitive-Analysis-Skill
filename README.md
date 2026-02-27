@@ -1,8 +1,10 @@
 # Competitive Analysis Skill for Claude
 
-A consulting-grade competitive analysis skill for Claude that produces structured, insight-driven analysis modeled on McKinsey/BCG methodology. Give Claude a company and a market — get back a professional PowerPoint deck, a fully-documented Excel data workbook, and actionable strategic recommendations.
+A consulting-grade competitive analysis skill for Claude that produces structured, insight-driven analysis modeled on McKinsey/BCG methodology, but the final output is of course not quite that! What you can do here is give Claude a company and a market, then get back a professional PowerPoint deck, a fully-documented Excel data workbook, and actionable strategic recommendations.
 
 NOTE: The goal here is to offer a jump-start to a genreal overview, not be a final destination. It's to offer a strategist or product person a starting place in consideration of next steps. As amazing as AI tool are, we should still be thinking. My goal is making this was to build just a little step-stool for getting to the next level, not a final outocme.
+
+Last Warning: Trust, but Verify! You get a great starting point with this. That's the goal.
 
 ---
 

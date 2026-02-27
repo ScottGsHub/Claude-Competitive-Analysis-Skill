@@ -7,6 +7,18 @@ A consulting-grade competitive analysis skill for Claude that produces structure
 # Disclaimer
 This skill uses only publicly available data. No guarantees are made as to the accuracy, completeness, or validity of any output. AI-generated analysis can contain errors, outdated information, or misinterpretations even when based on credible sources — all outputs should be verified before use in business decisions. If you extend this skill with data from proprietary or subscription services, you assume full responsibility for compliance with your organization's data use policies and any applicable terms of service.isclaimer: There are no guarantees as to accuracy or validity of any output here. This skill uses only publicly available data. Rich data sources from proprietary services is unavailable to this skill unless you add it based on your own subscriptions. If doing so, you assume any risk regarding your company's policies for using such data.
 
+# Project Suggestion
+It might be useful to create a Project that's specific to Competitive Analysis. You an add custom needs like this, without modifying the skill files themselves, which of course you can always do.
+
+Here's an example:
+Use the competitive analysis skills for this project.
+
+Consider additional business analysis frameworks that might be appropriate beyond what the skills may include.
+
+Use whatever publicly available data you can reach.
+
+In an appendix, list any other data sources, (up to 10), which might be useful, but were unavailable as they're behind paywalls or subscriptions.
+
 
 ## What This Skill Does
 

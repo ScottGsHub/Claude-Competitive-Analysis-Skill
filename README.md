@@ -1,5 +1,7 @@
 # Competitive Analysis Skill for Claude
 
+![competitive analysis for claude repo header graphic](ClaudeSkillsAnalysis-GithubReadmeHeader-900x506.png)
+
 A consulting-grade-like competitive analysis skill for Claude that produces structured, insight-driven analysis modeled on McKinsey/BCG methodology, (or style at least), but the final output is of course not quite that! What you can do here is give Claude a company and a market, then get back a professional, (though likely not wholly polished), PowerPoint deck, a documented Excel data workbook, and actionable strategic recommendations. (If for some reason, output is missing something, just tell Claude, "Hey, weren't you supposed to include an Excel file?" It will tell you how sorry it is, and how wonderful you are for mentioning it, and then finish up. You may notice there is a final quality check skill, and yet it still misses sometimes. (That's a lesson.)
 
 NOTE: The goal here is to offer a jump-start to a genereal overview, not be a final destination. It's to offer a strategist or product person a starting place in consideration of next steps. As amazing as AI tools are, we should still be thinking. My goal is making this was to build just a little step-stool for getting to the next level, not a final outcome. Also, output here, such as a powerpoint file, may be a little sloppy in some places. This is meant for individual beginning analysis, not delivery to a client.
